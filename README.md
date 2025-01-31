@@ -30,7 +30,7 @@ This repository contains various Machine Learning projects developed for learnin
 To run the projects locally, create a Conda environment and install the necessary dependencies:
 
 ```bash
-cd project-directory
+cd "project-directory"
 conda env create --prefix ./env --file environment.yml
 ```
 
